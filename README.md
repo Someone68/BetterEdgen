@@ -4,7 +4,7 @@ Version 0.0.1
 <br>
 <br>
 ## Installation
-Download and install the Tampermonkey/Violentmonkey extension for your browser (Chrome Web Store, Firefox Addons, etc.) and click [this link](https://github.com/Someone68/BetterEdgen/raw/main/betteredgen.js) to install.
+Download and install the Tampermonkey/Violentmonkey extension for your browser (Chrome Web Store, Firefox Addons, etc.) and click [this link](https://github.com/Someone68/BetterEdgen/blob/main/betteredgen.js). Click the "Download Raw File" button on the right to install.
 
 ## Customization
 Go to the Tampermonkey dashboard, edit the user script, and follow the instructions in the code!
