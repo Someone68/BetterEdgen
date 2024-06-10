@@ -12,5 +12,5 @@ Go to the Tampermonkey dashboard, edit the user script, and follow the instructi
 ### DON'T MIND THE SPAGGETTI CODE, I'M SHIT AT CODING!!
 
 # KNOWN BUGS
-- auto advance | SOMETIMES WILL NOT AUTO ADVANCE, detecting a video when there is not a video - Fix coming soon
-- auto advance | SOMETIMES VIDEOES WILL RESTART REPEATEDLY, this happens less with BetterEdgen (worse on EdgenTweaks/Edgenuity Master Controller), but it may still happen.
+- auto advance   | SOMETIMES WILL NOT AUTO ADVANCE, detecting a video when there is not a video - Fix coming soon
+- guess practice | SOMETIMES VIDEOES WILL RESTART REPEATEDLY
